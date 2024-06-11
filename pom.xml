@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://13.42.45.136:8089/Atoktech/repository/mo-release/</url>
+	      <url>http://13.42.45.136:8089/Atoktech/repository/gt-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.42.45.136:8089/Atoktech/repository/gtech-snapshot/</url>
+	      <url>http://13.42.45.136:8089/Atoktech/repository/gt-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

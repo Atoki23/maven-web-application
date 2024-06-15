@@ -18,6 +18,7 @@
         Class37 DevOps MasterClass will start on July 13, 2024.
         Please invite all your contacts and friends for this life changing course.
         Please be there!
+        Cheers!
 </h1>
 <hr>
 <br>

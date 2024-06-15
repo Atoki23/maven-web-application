@@ -19,7 +19,7 @@
         Please invite all your contacts and friends for this life changing course.
         Please, be there!
         Cheers!
-        Prof. Legah
+        Prof. Legah.
 </h1>
 <hr>
 <br>
